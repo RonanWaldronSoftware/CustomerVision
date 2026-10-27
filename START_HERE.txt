@@ -1,0 +1,14 @@
+BRITEBIN CUSTOMERVISION
+
+WINDOWS: Double-click START_CUSTOMERVISION.bat
+MAC:     Double-click START_CUSTOMERVISION.command
+LINUX:   Run START_CUSTOMERVISION.sh
+
+FIRST LAUNCH:
+CustomerVision asks for your Gmail sender address and its Google app password.
+Use a Google app password, not the normal Gmail password.
+
+The dashboard then opens automatically in your web browser.
+Keep the launcher window open while using CustomerVision.
+
+Requirement: Node.js LTS must be installed.
